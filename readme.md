@@ -18,7 +18,6 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Modernization Factories](#modernization-factories)
 - [Factory Infrastructure and Orchestration](#factory-infrastructure-and-orchestration)
 - [Service-Led Software Factories](#service-led-software-factories)
-- [Related Lists and Learning Resources](#related-lists-and-learning-resources)
 
 ## End-to-End Software Factories
 
@@ -87,15 +86,6 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [HCLTech AI Force.Software.Mod](https://www.hcltech.com/ai-led-modernization) - Automates legacy-application analysis, code transformation, refactoring, testing, and deployment, with security, compliance, and observability integrated into the delivery process.
 - [Lunatech Legacy Modernization with AI](https://blog.lunatech.com/posts/2026-05-26-legacy-modernization-with-ai/) - Defines a seven-phase service method for discovering, rebuilding, parity-testing, migrating, hardening, and handing over legacy-system replacements.
 - [Thoughtworks AI/works](https://www.thoughtworks.com/en-us/ai/works) - Connects legacy-code analysis, future-state specifications, generated software, evaluations, runtime maintenance, and governance in an expert-led platform.
-
-## Related Lists and Learning Resources
-
-- [Attractor](https://github.com/strongdm/attractor) - Specifies a software-factory pipeline runner, coding-agent loop, and unified LLM client in natural language intended for agent-led implementation.
-- [Awesome Coding Agent Orchestration](https://github.com/erson/awesome-coding-agent-orchestration) - Curates command centers, agentic IDEs, harnesses, task boards, and observability tools for fleets of coding agents.
-- [Dark Factory Experiment](https://github.com/coleam00/dark-factory-experiment) - Documents a live repository experiment whose Archon workflows triage issues, implement changes, review them, and maintain the application.
-- [Harness Engineering Guide](https://github.com/nexu-io/harness-engineering-guide) - Explains agent loops, context, tools, sandboxing, orchestration, scheduling, recovery, and evaluation through practical implementation examples.
-- [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Describes repository knowledge, architectural constraints, isolated environments, observability, review loops, and maintenance practices for agent-first software development.
-- [Software Factories And The Agentic Moment](https://factory.strongdm.ai/) - Describes a non-interactive software-development method driven by specifications, external validation scenarios, satisfaction checks, and digital twins.
 
 ## Contributing
 
