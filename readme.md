@@ -43,10 +43,10 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 ## Business App Factories
 
 - [Appian](https://appian.com/products/platform/low-code) - Builds governed web and mobile process applications with visual design, data integration, and native deployment controls.
-- [Appsmith](https://www.appsmith.com/) - Provides an open-source low-code platform for building and deploying internal applications over databases and APIs.
+- [Appsmith](https://www.appsmith.com/) - Builds and self-hosts internal applications over databases and APIs, with code-level customization, Git version control, and branch-based deployment.
 - [Base44](https://base44.com/) - Turns conversational requirements into full-stack applications with managed data, workflows, previews, branches, and publishing.
 - [Bubble](https://bubble.io/) - Provides a visual no-code environment for building, testing, and hosting full-stack web and native mobile applications.
-- [Budibase](https://budibase.com/) - Provides an open-source low-code platform for building and deploying internal tools, forms, portals, and approval applications.
+- [Budibase](https://budibase.com/) - Builds and self-hosts internal tools over connected data, combining visual applications with automations, agents, permissions, and APIs.
 - [FlutterFlow](https://flutterflow.io/) - Visually builds, tests, and deploys Flutter applications for web, iOS, and Android with source-code export.
 - [Lovable](https://docs.lovable.dev/) - Builds and publishes full-stack web applications through conversational planning, generation, preview, security checks, and managed cloud services.
 - [Mendix](https://www.mendix.com/platform/) - Builds and governs web, mobile, and process applications through model-driven and AI-assisted development.
@@ -60,7 +60,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Astadia FastTrack Platform](https://www.astadia.com/our-work/the-migration-factory) - Combines automated code and data conversion, parity testing, and deployment preparation for staged mainframe-to-cloud migrations.
 - [AWS Transform](https://aws.amazon.com/transform/) - Coordinates assessment, planning, code transformation, testing, migration, and continuous technical-debt remediation across enterprise workloads.
 - [Blitzy](https://blitzy.com/refactor) - Produces refactored or migrated code repositories through specification review, multi-agent generation, compilation, runtime validation, and QA.
-- [CodeMie](https://www.codemie.ai/) - Provides EPAM's multi-agent platform for software planning, implementation, testing, deployment, operation, and legacy modernization.
+- [CodeMie](https://www.codemie.ai/) - Connects application assessment, codebase analysis, migration planning, code transformation, test generation, and deployment workflows for legacy modernization.
 - [GitHub Copilot modernization for Java](https://learn.microsoft.com/en-us/azure/developer/java/migration/migrate-github-copilot-app-modernization-for-java) - Assesses and upgrades Java applications with reusable agent tasks for remediation, build repair, testing, containerization, and Azure deployment.
 - [Google Cloud Mainframe Modernization](https://cloud.google.com/solutions/mainframe-modernization) - Combines mainframe assessment, business-rule extraction, agentic code transformation, behavioral validation, data migration, and Google Cloud deployment.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) - Supports mainframe discovery, documentation, refactoring, COBOL-to-Java transformation, compilation, and semantic-equivalence testing.
@@ -78,7 +78,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Factory](https://github.com/addyosmani/factory) - Provides a reference issue-to-draft-PR workflow with isolated worktrees, verification, and human merge authority for Claude Code and Codex.
 - [HAR](https://github.com/os-factory/har) - Adds isolated worktrees, deterministic verification, evidence, and observability to coding-agent workflows through a CLI and MCP interface.
 - [Machinist](https://github.com/owainlewis/machinist) - Operates coding workflows through durable events, bounded workspaces, retained artifacts, validation, and pull-request handoff.
-- [OrgOps](https://github.com/camplight/orgops) - Self-hostable coordination layer that lets humans and external agent runtimes collaborate through an event bus across multiple hosts.
+- [OrgOps](https://github.com/camplight/orgops/blob/main/docs/WRAPPED_AGENT_INVITES.md) - Bootstraps and coordinates external coding-agent runtimes across pinned hosts and channels with scoped credentials and operator controls.
 - [Shipfox](https://github.com/ShipfoxHQ/shipfox) - Runs event-driven engineering workflows with agent and shell steps, executable gates, bounded feedback loops, isolated runners, and monitoring.
 
 ## Service-Led Software Factories

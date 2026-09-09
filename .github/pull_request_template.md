@@ -1,4 +1,9 @@
-## Checklist
+## Change Type
+
+- [ ] Addition or material update.
+- [ ] Removal of an inactive, deprecated, or out-of-scope item.
+
+## Checklist For Additions And Material Updates
 
 - [ ] I placed the entry in its single best-fitting category.
 - [ ] I linked to a primary project, product, or documentation source that supports the description.
@@ -9,6 +14,10 @@
 - [ ] I placed the entry alphabetically within its category.
 - [ ] I disclosed below any affiliation, employment, contribution, sponsorship, or self-nomination connected to the item.
 
+## Checklist For Removals
+
+- [ ] I linked below to primary evidence that the item is inactive, deprecated, inaccessible, or outside this list's scope.
+
 ## Personal Recommendation
 
 <!-- Why do you personally recommend this item? -->
@@ -16,3 +25,7 @@
 ## Affiliation Disclosure
 
 <!-- State your affiliation or write "None." -->
+
+## Removal Evidence
+
+<!-- For removals only: link the primary evidence and explain which criterion is no longer met. -->

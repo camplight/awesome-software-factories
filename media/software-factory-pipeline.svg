@@ -10,10 +10,18 @@
     <path d="M864 80V240"/>
   </g>
   <path d="M96 216H1104" fill="none" stroke="#F15A24" stroke-width="8"/>
-  <g fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">
-    <text x="96" y="164">01 / Intent</text>
-    <text x="376" y="164">02 / Build</text>
-    <text x="640" y="164">03 / Verify</text>
-    <text x="904" y="164">04 / Operate</text>
+  <g fill="#000000" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <g font-size="28">
+      <text x="96" y="112">01 /</text>
+      <text x="376" y="112">02 /</text>
+      <text x="640" y="112">03 /</text>
+      <text x="904" y="112">04 /</text>
+    </g>
+    <g font-size="52">
+      <text x="96" y="172">Intent</text>
+      <text x="376" y="172">Build</text>
+      <text x="640" y="172">Verify</text>
+      <text x="904" y="172">Operate</text>
+    </g>
   </g>
 </svg>
