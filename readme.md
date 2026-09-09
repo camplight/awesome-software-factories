@@ -47,12 +47,12 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Base44](https://base44.com/) - Turns conversational requirements into full-stack applications with managed data, workflows, previews, branches, and publishing.
 - [Bubble](https://bubble.io/) - Provides a visual no-code environment for building, testing, and hosting full-stack web and native mobile applications.
 - [Budibase](https://budibase.com/) - Provides an open-source low-code platform for building and deploying internal tools, forms, portals, and approval applications.
-- [FlutterFlow](https://www.flutterflow.io/) - Visually builds, tests, and deploys Flutter applications for web, iOS, and Android with source-code export.
-- [Lovable](https://lovable.dev/) - Builds and publishes full-stack web applications through conversational planning, generation, preview, security checks, and managed cloud services.
+- [FlutterFlow](https://flutterflow.io/) - Visually builds, tests, and deploys Flutter applications for web, iOS, and Android with source-code export.
+- [Lovable](https://docs.lovable.dev/) - Builds and publishes full-stack web applications through conversational planning, generation, preview, security checks, and managed cloud services.
 - [Mendix](https://www.mendix.com/platform/) - Builds and governs web, mobile, and process applications through model-driven and AI-assisted development.
 - [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps) - Turns requirements and process models into governed full-stack business applications for web and mobile.
 - [NocoBase](https://www.nocobase.com/) - Provides an open-source platform where AI agents and visual builders create relational business systems with workflows and permissions.
-- [OutSystems](https://www.outsystems.com/platform/) - Provides a managed low-code lifecycle for designing, testing, deploying, monitoring, and maintaining enterprise applications.
+- [OutSystems](https://www.outsystems.com/low-code-platform) - Provides a managed low-code lifecycle for designing, testing, deploying, monitoring, and maintaining enterprise applications.
 - [Replit Agent](https://replit.com/products/agent) - Builds, tests, fixes, and deploys working applications from conversational requirements in a cloud development workspace.
 
 ## Modernization Factories
@@ -64,9 +64,9 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [GitHub Copilot modernization for Java](https://learn.microsoft.com/en-us/azure/developer/java/migration/migrate-github-copilot-app-modernization-for-java) - Assesses and upgrades Java applications with reusable agent tasks for remediation, build repair, testing, containerization, and Azure deployment.
 - [Google Cloud Mainframe Modernization](https://cloud.google.com/solutions/mainframe-modernization) - Combines mainframe assessment, business-rule extraction, agentic code transformation, behavioral validation, data migration, and Google Cloud deployment.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) - Supports mainframe discovery, documentation, refactoring, COBOL-to-Java transformation, compilation, and semantic-equivalence testing.
-- [Konveyor](https://www.konveyor.io/) - Provides an open-source suite for inventorying, analyzing, refactoring, and replatforming applications for Kubernetes and cloud-native environments.
+- [Konveyor](https://konveyor.io/) - Provides an open-source suite for inventorying, analyzing, refactoring, and replatforming applications for Kubernetes and cloud-native environments.
 - [Mechanical Orchard Imogen](https://www.mechanical-orchard.com/platform) - Uses source analysis and observed production behavior to generate, validate, and incrementally cut over modern replacements for mainframe workloads.
-- [Moderne](https://www.moderne.ai/) - Runs deterministic framework, language, dependency, security, and build migrations across many repositories with reviewed pull-request output.
+- [Moderne](https://moderne.ai/) - Runs deterministic framework, language, dependency, security, and build migrations across many repositories with reviewed pull-request output.
 - [vFunction](https://vfunction.com/platform/) - Uses static and runtime architecture context to plan modularization, guide code assistants, generate integration tests, and extract or rewrite Java and .NET services.
 
 ## Factory Infrastructure and Orchestration
@@ -83,9 +83,9 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 
 ## Service-Led Software Factories
 
-- [Cognizant Flowsource](https://www.cognizant.com/us/en/services/software-engineering-services/flowsource) - Gives delivery squads a reusable platform for requirements, architecture, code generation, documentation, automated quality controls, and release preparation.
+- [Cognizant Flowsource](https://www.cognizant.com/us/en/services/cognizant-platforms/flowsource) - Gives delivery squads a reusable platform for requirements, architecture, code generation, documentation, automated quality controls, and release preparation.
 - [HCLTech AI Force.Software.Mod](https://www.hcltech.com/ai-led-modernization) - Automates legacy-application analysis, code transformation, refactoring, testing, and deployment, with security, compliance, and observability integrated into the delivery process.
-- [Lunatech Legacy Modernization with AI](https://blog.lunatech.com/posts/2026-05-26-legacy-modernization-with-ai) - Defines a seven-phase service method for discovering, rebuilding, parity-testing, migrating, hardening, and handing over legacy-system replacements.
+- [Lunatech Legacy Modernization with AI](https://blog.lunatech.com/posts/2026-05-26-legacy-modernization-with-ai/) - Defines a seven-phase service method for discovering, rebuilding, parity-testing, migrating, hardening, and handing over legacy-system replacements.
 - [Thoughtworks AI/works](https://www.thoughtworks.com/en-us/ai/works) - Connects legacy-code analysis, future-state specifications, generated software, evaluations, runtime maintenance, and governance in an expert-led platform.
 
 ## Related Lists and Learning Resources
