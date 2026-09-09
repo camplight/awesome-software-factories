@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Editorial software factory pipeline</title>
+  <desc id="desc">A four-stage process moving from Intent through Build and Verify to Operate.</desc>
+  <rect width="1200" height="320" fill="#FFFFFF"/>
+  <g fill="none" stroke="#000000" stroke-width="2">
+    <path d="M64 48H1136"/>
+    <path d="M64 272H1136"/>
+    <path d="M336 80V240"/>
+    <path d="M600 80V240"/>
+    <path d="M864 80V240"/>
+  </g>
+  <path d="M96 216H1104" fill="none" stroke="#F15A24" stroke-width="8"/>
+  <g fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">
+    <text x="96" y="164">01 / Intent</text>
+    <text x="376" y="164">02 / Build</text>
+    <text x="640" y="164">03 / Verify</text>
+    <text x="904" y="164">04 / Operate</text>
+  </g>
+</svg>
