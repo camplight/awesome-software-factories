@@ -56,6 +56,7 @@ Do not submit:
 - State concrete capabilities, not vendor slogans.
 - Describe why the item is useful or distinctive without ranking it.
 - Keep each entry to one sentence wherever possible.
+- Affiliate links are not permitted.
 - Use neutral wording and omit star counts, pricing, unsupported autonomy claims, status badges, comparative language, and labels such as "recommended" or "best."
 - Keep the existing category structure unless a focused discussion establishes a need to change it.
 
