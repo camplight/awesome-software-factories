@@ -6,9 +6,9 @@
 ## Checklist For Additions And Material Updates
 
 - [ ] I placed the entry in its single best-fitting category.
-- [ ] I linked to a primary project, product, or documentation source that supports the description.
-- [ ] I confirmed that the item is currently maintained, documented, accessible, and not archived or deprecated.
-- [ ] The item produces deployable or maintained software across multiple lifecycle stages, or provides purpose-built software-factory infrastructure.
+- [ ] I linked to a primary project, product, documentation, or first-party evidence source that supports the description.
+- [ ] For a system or service, I confirmed that it is currently maintained, documented, accessible, and not archived or deprecated, and that it produces software across multiple lifecycle stages or provides purpose-built software-factory infrastructure.
+- [ ] For industry evidence, I confirmed that the source is first-party and accessible and documents an operating factory's lifecycle scope, production usage, and measurable outcomes.
 - [ ] I explained below why I personally recommend this item.
 - [ ] The entry uses factual, neutral wording and ends with a period.
 - [ ] I placed the entry alphabetically within its category.

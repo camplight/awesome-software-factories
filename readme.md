@@ -8,7 +8,7 @@
 
 > Repeatable systems that turn intent into deployable and maintained software through automated workflows.
 
-This list focuses on active systems that own a repeatable, multi-stage software lifecycle, plus purpose-built infrastructure and directly relevant learning resources; generic coding agents, agent frameworks, and workflow automation tools are outside its scope.
+This list focuses on active systems that own a repeatable, multi-stage software lifecycle, plus purpose-built infrastructure and first-party evidence from operating factories; generic coding agents, agent frameworks, and workflow automation tools are outside its scope.
 
 ## Contents
 
@@ -18,12 +18,14 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Modernization Factories](#modernization-factories)
 - [Factory Infrastructure and Orchestration](#factory-infrastructure-and-orchestration)
 - [Service-Led Software Factories](#service-led-software-factories)
+- [Industry Evidence](#industry-evidence)
 
 ## End-to-End Software Factories
 
 - [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo-agent-platform/) - Runs governed agents and repeatable flows across planning, coding, security, merge requests, CI/CD, and deployment within GitLab.
 - [human](https://github.com/gethuman-sh/human) - Provides an open-source development rig that carries ideas and defects through specification, implementation, review, CI gates, merge, and deployment.
 - [Last Light](https://github.com/nearform/lastlight) - Maintains GitHub repositories through issue triage, pull-request review, health monitoring, and an Architect-Executor-Reviewer feature cycle.
+- [Mastra Factory](https://mastra.ai/factory) - Runs persistent coding agents across issue intake, triage, planning, implementation, checks, and pull-request review in configurable repository workspaces.
 - [Sgai](https://github.com/sandgardenhq/sgai) - Runs a supervised local software factory where a coordinator delegates a goal to specialist agents and executable success checks determine completion.
 
 ## Specification-Driven Engineering Systems
@@ -79,13 +81,19 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Machinist](https://github.com/owainlewis/machinist) - Operates coding workflows through durable events, bounded workspaces, retained artifacts, validation, and pull-request handoff.
 - [OrgOps](https://github.com/camplight/orgops/blob/main/docs/WRAPPED_AGENT_INVITES.md) - Bootstraps and coordinates external coding-agent runtimes across pinned hosts and channels with scoped credentials and operator controls.
 - [Shipfox](https://github.com/ShipfoxHQ/shipfox) - Runs event-driven engineering workflows with agent and shell steps, executable gates, bounded feedback loops, isolated runners, and monitoring.
+- [Warp Factories](https://www.warp.dev/factories) - Defines cloud software factories as code that move work from intake to mergeable pull requests across configurable agents, models, repositories, approval gates, evaluations, and benchmarks.
 
 ## Service-Led Software Factories
 
-- [Cognizant Flowsource](https://www.cognizant.com/us/en/services/cognizant-platforms/flowsource) - Gives delivery squads a reusable platform for requirements, architecture, code generation, documentation, automated quality controls, and release preparation.
 - [HCLTech AI Force.Software.Mod](https://www.hcltech.com/ai-led-modernization) - Automates legacy-application analysis, code transformation, refactoring, testing, and deployment, with security, compliance, and observability integrated into the delivery process.
 - [Lunatech Legacy Modernization with AI](https://blog.lunatech.com/posts/2026-05-26-legacy-modernization-with-ai/) - Defines a seven-phase service method for discovering, rebuilding, parity-testing, migrating, hardening, and handing over legacy-system replacements.
 - [Thoughtworks AI/works](https://www.thoughtworks.com/en-us/ai/works) - Connects legacy-code analysis, future-state specifications, generated software, evaluations, runtime maintenance, and governance in an expert-led platform.
+
+## Industry Evidence
+
+First-party reports from organizations operating software factories, with concrete lifecycle scope and measured outcomes.
+
+- [Running a Software Factory Efficiently at Uber Scale](https://www.uber.com/us/en/blog/efficient-software-factory/) - Reports Uber's use of managed agents for code review, CI repair, end-to-end pull requests, incident triage, debugging, and maintenance, with measured adoption, quality, and unit-cost outcomes.
 
 ## Contributing
 

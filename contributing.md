@@ -16,9 +16,11 @@ Submissions may include:
 - Modernization systems that transform, migrate, or rebuild existing software through a repeatable workflow.
 - Purpose-built software-factory orchestration, control, verification, and execution infrastructure.
 - Service-led factories with an identifiable repeatable platform or method that produces working software.
-- A small set of directly relevant lists and learning resources.
+- First-party implementation reports that document an operating software factory's lifecycle scope, production usage, and measurable outcomes.
 
 A core submission must produce deployable or maintained software, own a repeatable workflow across multiple lifecycle stages, and be active, accessible, and sufficiently documented. Purpose-built infrastructure may instead qualify when it directly coordinates, governs, verifies, or operates software-factory workflows.
+
+Evidence submissions must be first-party accounts of an operating software factory and document its lifecycle scope, production usage, and concrete outcomes or measurements.
 
 ## Exclusion Criteria
 
@@ -31,12 +33,13 @@ Do not submit:
 - Ordinary consultancies that merely claim to use AI.
 - Unmaintained, archived, deprecated, undocumented, or inaccessible projects.
 - Thin demos, unverifiable announcements, and products supported only by secondary promotional coverage.
+- Commentary, trend pieces, and announcements without firsthand implementation evidence or measurable outcomes.
 
 ## Proposing a Change
 
 - Submit one logical addition or removal per pull request where practical.
 - Place each item once, under its dominant use case, and alphabetize it within that category.
-- Use the project's canonical name and link to its primary project, product, or documentation page.
+- Use the item's canonical name or report title and link to its primary project, product, documentation, or evidence page.
 - Use this entry syntax:
 
 ```markdown
@@ -46,7 +49,8 @@ Do not submit:
 ## Evidence and Recommendation
 
 - Cite a primary source that supports the entry's material capabilities. Secondary coverage alone is not sufficient.
-- Confirm that the project or offering is currently maintained, documented, accessible, and not archived or deprecated.
+- For systems and services, confirm that the project or offering is currently maintained, documented, accessible, and not archived or deprecated.
+- For industry evidence, confirm that the source is first-party and accessible and documents an operating factory's production usage and measurable outcomes.
 - Explain briefly why you personally recommend the item rather than merely asserting that it qualifies.
 - Disclose any affiliation, employment, contribution, sponsorship, or self-nomination connected to the item. Disclosure belongs in the pull request, not the list entry.
 
