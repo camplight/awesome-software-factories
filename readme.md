@@ -22,7 +22,10 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 
 ## End-to-End Software Factories
 
+- [Cosmos](https://www.augmentcode.com/product/cosmos) - Runs event-triggered agent fleets across ticket intake, implementation, verification, deployment, monitoring, remediation, and human approval checkpoints in versioned software-factory workflows.
+- [Factory.ai Software Factory](https://docs.factory.ai/software-factory/overview) - Connects intake and triage, agent implementation, code and security review, automated QA, release gates, documentation, and incident response across persistent delivery automations.
 - [GitLab Duo Agent Platform](https://about.gitlab.com/gitlab-duo-agent-platform/) - Runs governed agents and repeatable flows across planning, coding, security, merge requests, CI/CD, and deployment within GitLab.
+- [Hoplite](https://hoplite.sh/docs) - Carries repository tasks through isolated implementation, tests and browser verification, pull requests, review feedback, checks, and merge, with scheduled and webhook-triggered runs.
 - [human](https://github.com/gethuman-sh/human) - Provides an open-source development rig that carries ideas and defects through specification, implementation, review, CI gates, merge, and deployment.
 - [Last Light](https://github.com/nearform/lastlight) - Maintains GitHub repositories through issue triage, pull-request review, health monitoring, and an Architect-Executor-Reviewer feature cycle.
 - [Mastra Factory](https://mastra.ai/factory) - Runs persistent coding agents across issue intake, triage, planning, implementation, checks, and pull-request review in configurable repository workspaces.
@@ -72,8 +75,10 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 
 ## Factory Infrastructure and Orchestration
 
+- [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Coordinates project planning, task delegation, isolated coding-agent workspaces, pull requests, CI, and review feedback through a supervised idea-to-merge workflow.
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - Schedules and supervises coding-agent fleets across isolated worktrees, branches, credentials, and distributed runners.
 - [Archon](https://github.com/coleam00/Archon) - Builds repeatable AI-coding harnesses from YAML workflows with planning, implementation, validation, review, and pull-request stages.
+- [Director](https://director.sh/) - Coordinates issue intake, planning, parallel implementation, diff review, and pull-request handoff across isolated Git worktrees on a shared canvas.
 - [Eve Software Factory Template](https://github.com/vercel-labs/eve-software-factory-template) - Coordinates GitHub and Linear work through staged implementation and review stations that produce reviewed draft pull requests.
 - [Fabro](https://github.com/fabro-sh/fabro) - Runs graph-defined coding workflows with branching, loops, model routing, Git checkpoints, verification, sandboxes, and human approval gates.
 - [Factory](https://github.com/addyosmani/factory) - Provides a reference issue-to-draft-PR workflow with isolated worktrees, verification, and human merge authority for Claude Code and Codex.
@@ -81,6 +86,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Machinist](https://github.com/owainlewis/machinist) - Operates coding workflows through durable events, bounded workspaces, retained artifacts, validation, and pull-request handoff.
 - [OrgOps](https://github.com/camplight/orgops/blob/main/docs/WRAPPED_AGENT_INVITES.md) - Bootstraps and coordinates external coding-agent runtimes across pinned hosts and channels with scoped credentials and operator controls.
 - [Shipfox](https://github.com/ShipfoxHQ/shipfox) - Runs event-driven engineering workflows with agent and shell steps, executable gates, bounded feedback loops, isolated runners, and monitoring.
+- [Superset](https://docs.superset.sh/) - Orchestrates parallel coding agents across isolated worktrees with task delegation, scheduled runs, result verification, diff review, and pull-request management.
 - [Warp Factories](https://www.warp.dev/factories) - Defines cloud software factories as code that move work from intake to mergeable pull requests across configurable agents, models, repositories, approval gates, evaluations, and benchmarks.
 
 ## Service-Led Software Factories
@@ -93,6 +99,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 
 First-party reports from organizations operating software factories, with concrete lifecycle scope and measured outcomes.
 
+- [Introducing Murmur](https://macroscope.com/blog/introducing-murmur) - Reports Macroscope's two-month use of cloud-agent fleets for decomposition, implementation, testing, UI verification, pull-request review, CI repair, and merge readiness across 90% of its shipped code.
 - [Running a Software Factory Efficiently at Uber Scale](https://www.uber.com/us/en/blog/efficient-software-factory/) - Reports Uber's use of managed agents for code review, CI repair, end-to-end pull requests, incident triage, debugging, and maintenance, with measured adoption, quality, and unit-cost outcomes.
 
 ## Contributing
