@@ -30,6 +30,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Last Light](https://github.com/nearform/lastlight) - Maintains GitHub repositories through issue triage, pull-request review, health monitoring, and an Architect-Executor-Reviewer feature cycle.
 - [Mastra Factory](https://mastra.ai/factory) - Runs persistent coding agents across issue intake, triage, planning, implementation, checks, and pull-request review in configurable repository workspaces.
 - [Sgai](https://github.com/sandgardenhq/sgai) - Runs a supervised local software factory where a coordinator delegates a goal to specialist agents and executable success checks determine completion.
+- [SHIP](https://letsship.ai/) - Runs assigned issues through planning, implementation, CI repair, code review, preview deployment, and acceptance testing to produce verified pull requests with configurable human approval gates.
 
 ## Specification-Driven Engineering Systems
 
