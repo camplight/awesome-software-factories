@@ -32,6 +32,8 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Mastra Factory](https://mastra.ai/factory) - Runs persistent coding agents across issue intake, triage, planning, implementation, checks, and pull-request review in configurable repository workspaces.
 - [Sgai](https://github.com/sandgardenhq/sgai) - Runs a supervised local software factory where a coordinator delegates a goal to specialist agents and executable success checks determine completion.
 - [SHIP](https://letsship.ai/) - Runs assigned issues through planning, implementation, CI repair, code review, preview deployment, and acceptance testing to produce verified pull requests with configurable human approval gates.
+- [SuperPlane](https://github.com/superplanehq/superplane) - Turns backlog work into verified, review-ready pull requests through durable workflow stages that coordinate agents, source control, CI, review, approvals, retries, and feedback.
+- [SWE-AF](https://github.com/Agent-Field/SWE-AF) - Runs goals through product and architecture planning, dependency-aware parallel implementation, QA, review, integration testing, acceptance verification, pull-request creation, and bounded CI repair.
 
 ## Specification-Driven Engineering Systems
 
@@ -40,6 +42,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Conductor](https://github.com/gemini-cli-extensions/conductor) - Maintains project context and guides coding agents through approved specifications, plans, implementation, review, and correction.
 - [GSD Core](https://github.com/open-gsd/gsd-core) - Runs milestone phases through discussion, research-backed planning, parallel implementation, verification and repair, and pull-request shipping.
 - [Kiro](https://kiro.dev/docs/specs/) - Turns requirements or bug analysis into design documents, dependency-aware tasks, parallel implementation, and correctness checks across IDE, CLI, and web environments.
+- [Loki Mode](https://github.com/asklokesh/loki-mode) - Turns tasks and specifications into delivery contracts, writes sealed checks before implementation, runs bounded repair and specialist review, opens pull requests, and emits signed evidence receipts.
 - [nWave](https://github.com/nWave-ai/nWave) - Guides coding agents through discovery, design, acceptance-test definition, test-driven implementation, and delivery with configurable rigor and human gates.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Maintains reviewable change specifications from exploration and proposal through implementation, verification, and archival into the durable spec set.
 - [Spec Kit](https://github.com/github/spec-kit) - Structures software work from project principles and feature specifications through implementation plans, tasks, and coding-agent execution.
@@ -60,6 +63,8 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [NocoBase](https://www.nocobase.com/) - Provides an open-source platform where AI agents and visual builders create relational business systems with workflows and permissions.
 - [OutSystems](https://www.outsystems.com/low-code-platform) - Provides a managed low-code lifecycle for designing, testing, deploying, monitoring, and maintaining enterprise applications.
 - [Replit Agent](https://replit.com/products/agent) - Builds, tests, fixes, and deploys working applications from conversational requirements in a cloud development workspace.
+- [Superblocks](https://docs.superblocks.com/) - Takes imported or generated business applications through managed data provisioning, static and agentic security checks, environment promotion, deployment, and continuous dependency monitoring.
+- [v0](https://v0.app/) - Provides a headless app-building API that turns prompts or existing repositories into running sandbox previews, iterates and repairs runtime errors, and deploys applications to Vercel.
 
 ## Modernization Factories
 
@@ -67,6 +72,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [AWS Transform](https://aws.amazon.com/transform/) - Coordinates assessment, planning, code transformation, testing, migration, and continuous technical-debt remediation across enterprise workloads.
 - [Blitzy](https://blitzy.com/refactor) - Produces refactored or migrated code repositories through specification review, multi-agent generation, compilation, runtime validation, and QA.
 - [CodeMie](https://www.codemie.ai/) - Connects application assessment, codebase analysis, migration planning, code transformation, test generation, and deployment workflows for legacy modernization.
+- [EvolveWare Intellisys](https://evolveware.com/intellisys/code-optimization-migration/) - Extracts and optimizes legacy application metadata, generates technology-neutral specifications and modern Java or C# applications, and validates them through vulnerability, unit, regression, and parallel testing.
 - [GitHub Copilot modernization for Java](https://learn.microsoft.com/en-us/azure/developer/java/migration/migrate-github-copilot-app-modernization-for-java) - Assesses and upgrades Java applications with reusable agent tasks for remediation, build repair, testing, containerization, and Azure deployment.
 - [Google Cloud Mainframe Modernization](https://cloud.google.com/solutions/mainframe-modernization) - Combines mainframe assessment, business-rule extraction, agentic code transformation, behavioral validation, data migration, and Google Cloud deployment.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) - Supports mainframe discovery, documentation, refactoring, COBOL-to-Java transformation, compilation, and semantic-equivalence testing.
@@ -88,11 +94,14 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Machinist](https://github.com/owainlewis/machinist) - Operates coding workflows through durable events, bounded workspaces, retained artifacts, validation, and pull-request handoff.
 - [OrgOps](https://github.com/camplight/orgops/blob/main/docs/WRAPPED_AGENT_INVITES.md) - Bootstraps and coordinates external coding-agent runtimes across pinned hosts and channels with scoped credentials and operator controls.
 - [Shipfox](https://github.com/ShipfoxHQ/shipfox) - Runs event-driven engineering workflows with agent and shell steps, executable gates, bounded feedback loops, isolated runners, and monitoring.
+- [softwarefabrik.io](https://softwarefabrik.io/en/) - Runs locally governed software-delivery workflows across planning, controlled agent execution, builds, review, CI correction, approval, merge, policy enforcement, and signed audit evidence.
 - [Superset](https://docs.superset.sh/) - Orchestrates parallel coding agents across isolated worktrees with task delegation, scheduled runs, result verification, diff review, and pull-request management.
+- [Tessl](https://tessl.io/) - Runs version-controlled agent workflows on schedules and pull requests, with managed execution environments, code-review and CI gates, evaluations, and governed skill distribution.
 - [Warp Factories](https://www.warp.dev/factories) - Defines cloud software factories as code that move work from intake to mergeable pull requests across configurable agents, models, repositories, approval gates, evaluations, and benchmarks.
 
 ## Service-Led Software Factories
 
+- [CI&T Agentic SDLC](https://ciandt.com/us/en-us/services/agentic-sdlc) - Coordinates business analysis, technical design, implementation, automated testing, validation, and production deployment through a service-led agentic delivery method.
 - [HCLTech AI Force.Software.Mod](https://www.hcltech.com/ai-led-modernization) - Automates legacy-application analysis, code transformation, refactoring, testing, and deployment, with security, compliance, and observability integrated into the delivery process.
 - [Lunatech Legacy Modernization with AI](https://blog.lunatech.com/posts/2026-05-26-legacy-modernization-with-ai/) - Defines a seven-phase service method for discovering, rebuilding, parity-testing, migrating, hardening, and handing over legacy-system replacements.
 - [Thoughtworks AI/works](https://www.thoughtworks.com/en-us/ai/works) - Connects legacy-code analysis, future-state specifications, generated software, evaluations, runtime maintenance, and governance in an expert-led platform.
@@ -101,7 +110,10 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 
 First-party reports from organizations operating software factories, with concrete lifecycle scope and measured outcomes.
 
+- [1,500+ PRs Later: Spotify's Journey with Our Background Coding Agent (Honk, Part 1)](https://engineering.atspotify.com/2025/11/spotifys-background-coding-agent-part-1) - Documents Spotify's repository targeting, agent implementation, formatting, linting, evaluation, review, and production merge workflow, with more than 1,500 merged pull requests and reported migration time savings of 60-90%.
+- [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Reports OpenAI's use of Codex-driven planning, implementation, testing, review, CI repair, merge, deployment, observability, and maintenance to ship a million-line product through roughly 1,500 merged pull requests with no manually written code.
 - [Introducing Murmur](https://macroscope.com/blog/introducing-murmur) - Reports Macroscope's two-month use of cloud-agent fleets for decomposition, implementation, testing, UI verification, pull-request review, CI repair, and merge readiness across 90% of its shipped code.
+- [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) - Documents Stripe's unattended Slack-to-pull-request workflow, including context gathering, implementation, linting, testing, bounded CI repair, and human review, with more than 1,000 fully agent-produced pull requests merged weekly.
 - [Running a Software Factory Efficiently at Uber Scale](https://www.uber.com/us/en/blog/efficient-software-factory/) - Reports Uber's use of managed agents for code review, CI repair, end-to-end pull requests, incident triage, debugging, and maintenance, with measured adoption, quality, and unit-cost outcomes.
 
 ## Contributing
