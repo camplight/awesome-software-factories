@@ -83,6 +83,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 
 ## Factory Infrastructure and Orchestration
 
+- [Alan](https://tryalan.ai/) - Orchestrates coding agents through ticket intake, sandboxed implementation, CI and QA verification, review, and human-gated merge on a shared delivery context layer.
 - [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Coordinates project planning, task delegation, isolated coding-agent workspaces, pull requests, CI, and review feedback through a supervised idea-to-merge workflow.
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - Schedules and supervises coding-agent fleets across isolated worktrees, branches, credentials, and distributed runners.
 - [Archon](https://github.com/coleam00/Archon) - Builds repeatable AI-coding harnesses from YAML workflows with planning, implementation, validation, review, and pull-request stages.
