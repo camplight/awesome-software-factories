@@ -57,6 +57,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 - [Bubble](https://bubble.io/) - Provides a visual no-code environment for building, testing, and hosting full-stack web and native mobile applications.
 - [Budibase](https://budibase.com/) - Builds and self-hosts internal tools over connected data, combining visual applications with automations, agents, permissions, and APIs.
 - [FlutterFlow](https://flutterflow.io/) - Visually builds, tests, and deploys Flutter applications for web, iOS, and Android with source-code export.
+- [Layerwise](https://layerwise.app/docs/getting-started/quickstart) - Turns conversational requirements into full-stack web applications through local code generation, live previews, iterative changes, and managed publishing with built-in database, authentication, analytics, and logs.
 - [Lovable](https://docs.lovable.dev/) - Builds and publishes full-stack web applications through conversational planning, generation, preview, security checks, and managed cloud services.
 - [Mendix](https://www.mendix.com/platform/) - Builds and governs web, mobile, and process applications through model-driven and AI-assisted development.
 - [Microsoft Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps) - Turns requirements and process models into governed full-stack business applications for web and mobile.
