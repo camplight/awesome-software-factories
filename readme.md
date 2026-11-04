@@ -39,6 +39,7 @@ This list focuses on active systems that own a repeatable, multi-stage software 
 
 - [AI-DLC](https://github.com/awslabs/aidlc-workflows) - Runs a harness-neutral software lifecycle with requirements, design, implementation, review, delivery, approval gates, persistent state, and audit evidence.
 - [BMad Method](https://github.com/bmad-code-org/BMAD-METHOD) - Guides new and existing software from clarification and right-sized planning through reviewed implementation, correction, and learning.
+- [Codeplain](https://www.codeplain.ai/) - Regenerates complete implementations, unit tests, and spec-derived conformance tests from structured plain-language specifications, so behavior changes are made in the spec and the code is rebuilt rather than hand-maintained.
 - [Conductor](https://github.com/gemini-cli-extensions/conductor) - Maintains project context and guides coding agents through approved specifications, plans, implementation, review, and correction.
 - [GSD Core](https://github.com/open-gsd/gsd-core) - Runs milestone phases through discussion, research-backed planning, parallel implementation, verification and repair, and pull-request shipping.
 - [Kiro](https://kiro.dev/docs/specs/) - Turns requirements or bug analysis into design documents, dependency-aware tasks, parallel implementation, and correctness checks across IDE, CLI, and web environments.
